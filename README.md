@@ -15,6 +15,7 @@ Este repositorio contiene los códigos de la práctica, explicaciones de los mis
 
 ### Notion
 [Link al Notion](https://marked-catshark-893.notion.site/6513154ff0624abdb0e7dc35a3b155f7?v=2166b23911c64f3ba5fba2cab8a6df71&source=copy_link)
+
 Contiene:
 - `Resúmen para parcial`
 - `Parciales resueltos`
